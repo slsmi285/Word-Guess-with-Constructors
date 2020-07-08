@@ -1,0 +1,23 @@
+{
+  "name": "word-guess-with-constructors",
+  "version": "1.0.0",
+  "description": "This is a Word Guess command-line game using constructor functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slsmi285/Word-Guess-with-Constructors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slsmi285/Word-Guess-with-Constructors/issues"
+  },
+  "homepage": "https://github.com/slsmi285/Word-Guess-with-Constructors#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^7.3.0"
+  }
+}
