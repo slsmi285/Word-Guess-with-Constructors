@@ -28,4 +28,15 @@ Must have access to computer console, and NodeJS.
 The game uses an Super Marioa-themed word bank and 15 guesses by default. However, if you would like to play using your own word bank or a custom number of guesses, simply add your own array of word strings into the wordBank variable or your own number of guesses into the remainingGuesses variable.
 
 Links to screenshots:
-1. []()
+-   [Start Game](https://github.com/slsmi285/Word-Guess-with-Constructors/blob/master/images/game_start.PNG)
+<br>
+
+-   [Word Win](https://github.com/slsmi285/Word-Guess-with-Constructors/blob/master/images/Word_Win.PNG)
+
+<br>
+
+-   [Wrong Letter Guess](https://github.com/slsmi285/Word-Guess-with-Constructors/blob/master/images/wrong_letter_guess.PNG)
+
+<br>
+
+-   [Out of Guesses](https://github.com/slsmi285/Word-Guess-with-Constructors/blob/master/images/Out_of_Guesses.PNG)
