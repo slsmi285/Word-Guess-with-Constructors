@@ -25,7 +25,7 @@ Must have access to computer console, and NodeJS.
      4. Each guess should consist of one letter and it will reveal all instances of that letter in the word. 
      5. Try to reveal the entire word before your guesses run out!
 
-The game uses an Super Marioa-themed word bank and 15 guesses by default. However, if you would like to play using your own word bank or a custom number of guesses, simply add your own array of word strings into the wordBank variable or your own number of guesses into the remainingGuesses variable.
+The game uses an Super Mario-themed word bank and 15 guesses by default. However, if you would like to play using your own word bank or a custom number of guesses, simply add your own array of word strings into the wordBank variable or your own number of guesses into the remainingGuesses variable.
 
 Links to screenshots:
 -   [Start Game](https://github.com/slsmi285/Word-Guess-with-Constructors/blob/master/images/game_start.PNG)
