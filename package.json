@@ -18,6 +18,7 @@
   "homepage": "https://github.com/slsmi285/Word-Guess-with-Constructors#readme",
   "dependencies": {
     "colors": "^1.4.0",
+    "fs": "0.0.1-security",
     "inquirer": "^7.3.0"
   }
 }

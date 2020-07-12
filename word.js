@@ -1,3 +1,5 @@
+// word.js
+// This is used to create an object representing the current word the user is attempting to guess. 
 //Word constructor uses letter.js to create inputted word using 'makeWord'
 var Letter = require("./letter.js");
 

@@ -1,4 +1,15 @@
+// index.js
+// point-of-entry file to the application
+// index.js requires word.js, inquirer
+// word.js requires letter.js
+// letter.js (no requires)
 //NPM modules to obtain player input (letter guesses) and to add color to the display
+// main logic for game play
+// randomly selects a word, using the Word constructor to store the word
+// prompts user to guess the next letter
+// keeps track of user guesses remaining
+
+
 var Word = require("./word.js");
 var inquirer = require('inquirer');
 var colors = require('colors');
@@ -92,3 +103,4 @@ function rightGuess() {
 }
 
 startGame();
+
